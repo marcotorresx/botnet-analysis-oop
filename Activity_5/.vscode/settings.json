@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp",
+    "iostream": "cpp",
+    "stack": "cpp",
+    "queue": "cpp",
+    "sstream": "cpp",
+    "*.tcc": "cpp",
+    "new": "cpp",
+    "set": "cpp",
+    "type_traits": "cpp",
+    "array": "cpp",
+    "initializer_list": "cpp",
+    "utility": "cpp"
+  }
+}
